@@ -13,7 +13,10 @@ I'm a tech enthusiast with my own homelab, working on various projects involving
 
 ### Projects
 * **[B.A.S.E.](https://github.com/igorkalen/base)**: A lightweight, standalone language for backend development and automation.
+* **[Puffbin](https://puffbin.com)**: Secure, anonymous file-sharing service.
 * **[Laius Entertainment](https://laiusentertainment.com)**: Founder of an educational game studio.
+* **[Avelto](https://avelto.net)**: UK-based WordPress web hosting platform built for small businesses and developers.
 * I also work on many other projects behind the scenes.
 
 Feel free to follow me on TikTok or check out my blog at [blog.igorkalen.dev](https://blog.igorkalen.dev).
+
